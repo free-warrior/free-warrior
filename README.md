@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexbaker217
 - 👀 I’m interested in web & mobile front-end, back-end development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently working on business logic implementation field.
 - 💞️ I’m looking to collaborate on a professional remote team.
 - 📫 
 
