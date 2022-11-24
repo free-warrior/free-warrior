@@ -4,7 +4,7 @@ alexbaker217/alexbaker217 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-## Thanks for visiting here! <img src="[https://github.com/alexbaker217/alexbaker217/blob/main/wave.gif" width="30">
+## Thanks for visiting here! <img src="https://github.com/alexbaker217/alexbaker217/blob/main/wave.gif" width="30">
 - 👋 Hi, I’m Alex Baker, tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
 - 👀 I’m interested in Blockchain, Web & Mobile front-end, back-end development
 - 🌱 I’m currently working on business logic implementation field.
@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
