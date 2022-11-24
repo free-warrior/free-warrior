@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Fancy seeing you here! <img src="[https://raw.githubusercontent.com/alexbaker217/alexbaker217/master/wave.gif](https://github.com/alexbaker217/alexbaker217/blob/main/wave.gif)" width="30">
-- 👋 Hi, I’m Alex Baker, tech enthusiast on Blockchain/Web/Mobile development & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
-- 👀 I’m interested in web & mobile front-end, back-end development
+- 👋 Hi, I’m Alex Baker, tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
+- 👀 I’m interested in Blockchain, Web & Mobile front-end, back-end development
 - 🌱 I’m currently working on business logic implementation field.
-- 💞️ I’m looking to collaborate on a professional remote team.
+- 💞️ Also, I’m looking to collaborate on a professional remote team.
 
 ## ⚡ Technologies
 
