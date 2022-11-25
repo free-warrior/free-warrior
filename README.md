@@ -11,11 +11,12 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Also, I’m looking to collaborate on a professional remote team.
 
 ## ⚡ Technologies
-[![Ethereum Badge](https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Bitcoin Badge](https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Algorand Badge](https://img.shields.io/badge/Algorand-000000.svg?style=for-the-badge&logo=Algorand&logoColor=white)
+![Dogecoin Badge](https://img.shields.io/badge/Dogecoin-C2A633.svg?style=for-the-badge&logo=Dogecoin&logoColor=white)
 
-https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white
-https://img.shields.io/badge/Algorand-000000.svg?style=for-the-badge&logo=Algorand&logoColor=white
-https://img.shields.io/badge/Dogecoin-C2A633.svg?style=for-the-badge&logo=Dogecoin&logoColor=white
+
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
