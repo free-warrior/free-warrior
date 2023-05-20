@@ -1,11 +1,11 @@
 
 <!---
-alexbaker217/alexbaker217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+free-warrior/free-warrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Thanks for visiting here! <img src="https://github.com/alexbaker217/alexbaker217/blob/main/wave.gif" width="30">
-- 👋 Hi, I’m Alex Baker, tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
+## Thanks for visiting here! <img src="https://github.com/free-warrior/free-warrior/blob/main/wave.gif" width="30">
+- 👋 Hi, I’m a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
 - 👀 I’m interested in Blockchain, NFT, TCG, Web & Mobile front-end, back-end development
 - 🌱 I’m currently working on business logic implementation field.
 - 💞️ Also, I’m looking to collaborate on a professional remote team.
