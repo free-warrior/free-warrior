@@ -85,6 +85,6 @@ You can click the Preview link to take a look at your changes.
 ![PivotalTracker](https://img.shields.io/badge/Pivotal%20Tracker-517A9E.svg?style=for-the-badge&logo=Pivotal-Tracker&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexbaker217&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=free-warrior&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alexbaker217.alexbaker217)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=free-warrior.free-warrior)
